@@ -5,6 +5,7 @@ and to use .exe file you need just to download .exe, no python/psutil installati
 
 Features:
 Cpu,ram,disk,os and bios settings diagnostics (dont really change settings, just fowards them to user)
-Real time event viever (shows start/end of apps and registry changes)
+
+Real-time event viever (shows start/end of apps and registry changes)
 
 Have fun with this app, maybe even tool
