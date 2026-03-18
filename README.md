@@ -1,4 +1,4 @@
-Core sight V1.6
+Core sight V1.5
 
 Hello user! to use .py file you will need to intall psutill via pip install psutil!
 and to use .exe file you need just to download .exe, no python/psutil installation needed!
